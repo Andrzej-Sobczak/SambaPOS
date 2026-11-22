@@ -1,0 +1,2 @@
+# SambaPOS
+Repozytorium dokumentacji SambaPOS
